@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0"
   }
 }
